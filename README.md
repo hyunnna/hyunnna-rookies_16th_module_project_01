@@ -36,14 +36,6 @@ AWS 서비스, 오픈 소스 보안 라이브러리를 사용해 가용성과 �
 - 데이터베이스
     - Maria DB 
 
-### USECASE
-* * *
-![image](https://github.com/hyunnna/hyunnna-rookies_16th_module_project_01/assets/62924325/bc0922e8-12ff-4123-8a83-a20e6897cfd2)
-
-
-### Service Architecture
-* * *
-![image](https://github.com/hyunnna/hyunnna-rookies_16th_module_project_01/assets/62924325/30ebb4ac-946e-4ed2-903a-6e72a8923e29)
 
 
 
