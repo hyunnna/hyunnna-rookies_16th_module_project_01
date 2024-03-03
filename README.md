@@ -1,45 +1,25 @@
-# < Rookies 16th Module Project 1 >
+# 보안정보공유 게시판 웹 애플리케이션 생성
 
+## Summary
+- 클라우드 인프라 활용한 게시판 기능 웹 애플리케이션 제작 및 취약점 진단
 
-### 프로젝트 소개
-* * *
+## Security Features
+- AWS 제공 보안 기능(WAF, kinesis firehose)과 오픈소스 XSS 필터를 사용하여 보다 안전한 게시판 웹 애플리케이션을 제작 및 배포
 
-AWS 서비스, 오픈 소스 보안 라이브러리를 사용해 가용성과 보안성을 보장하는 게시판 웹 애플리케이션을
-제작 및 클라우드 환경에서 배포하고, 자체 취약점을 진단 후 보완하였습니다.
-
-</br> 
-
-### 프로젝트 일정 
-|일정|내용|
-|:----:|:---:|
-|웹 애플리케이션 제작|2023.12.26 ~ 2023.12.30|
-|클라우드인프라구성|2023.12.26 ~ 2023.12.30|
-|웹 애플리케이션 배포|2023.12.30|
-|취약점 진단 및 결과보고서 작성|2023.12.30 ~ 2024.01.01|
-
-
-### 개발 환경 
-***
+## Development Environment
+- AWS
 - Java 21.0.1
 - Eclipse IDE 4.30.0
 - RDS Maria DB
 - Maven 3.0.5
-- Tomcat 8.5
+- Apache Tomcat 8.5
 - 
-### 개발모델 
-* * *
-- 웹 애플리케이션
-    - Maven Build .WAR file
-- 운영체제: EC2 Ubuntu 22.04
-    - WEB Server: Tomcat 8.5
-    - WAS Server: Apache Tomcat 8.5
-- 데이터베이스
-    - Maria DB 
+## License
+This project is licensed under the MIT License.
 
-
-
-
-
-
-
-
+## Team Members
+- Gyoseo Ryu
+- Jongseong Kang
+- Minseung Kim
+- Beomhak Lee
+- Hyunhwa Jung
