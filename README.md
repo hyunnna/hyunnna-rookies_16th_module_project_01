@@ -13,7 +13,7 @@
 - RDS Maria DB
 - Maven 3.0.5
 - Apache Tomcat 8.5
-- 
+  
 ## License
 This project is licensed under the MIT License.
 
